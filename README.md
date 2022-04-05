@@ -1,2 +1,2 @@
 # Practice
-###clona coding
+### clone coding
